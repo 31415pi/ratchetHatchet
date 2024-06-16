@@ -1,5 +1,5 @@
 # ratchetHatchet
-Development drop zone for hacking the Ratchet Eurorack Module by Schottkey Modular.
+Development drop zone for whatever I discover (and the tools used in) hacking the Ratchet Eurorack Module by Schottkey Modular.
 
 ## Initial scripts to explore the save binary
 
