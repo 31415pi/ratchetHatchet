@@ -13,5 +13,7 @@ CSV format is 64 width x 3 rows:
 ### bin2csv/b2c.py
 Converts a save file binary into a CSV.
 Usage:
+
 ```$ b2c.py ratchet_patterns.bin output_filename.csv```
+
 Note: Stacks patterns 16*4 deep for each voice. Doesn't extract gate or ratchet data...
